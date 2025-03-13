@@ -1,12 +1,9 @@
-# Fragments by E2B
+# Flame-Coder by FlameheadLabs
 
-This is an open-source version of apps like [Anthropic's Claude Artifacts](https://www.anthropic.com/news/claude-3-5-sonnet), Vercel [v0](https://v0.dev), or [GPT Engineer](https://gptengineer.app).
+This is an open-source version of apps like [Anthropic's Claude Artifacts](https://www.anthropic.com/news/claude-3-5-sonnet), Vercel [v0](https://v0.dev), or [GPT Engineer](https://gptengineer.app), by FlameheadLabs.
 
-Powered by the [E2B SDK](https://github.com/e2b-dev/code-interpreter).
+Powered by the [E2B SDK](https://github.com/e2b-dev/code-interpreter).Flame-Coder is a FlameheadLabs project, recognizing and attributing the foundational work of E2B.
 
-![Preview](preview.png)
-
-[→ Try on fragments.e2b.dev](https://fragments.e2b.dev)
 
 ## Features
 
@@ -48,7 +45,7 @@ Powered by the [E2B SDK](https://github.com/e2b-dev/code-interpreter).
 In your terminal:
 
 ```
-git clone https://github.com/e2b-dev/fragments.git
+git clone https://github.com/Flamehead-Labs-Ug/flame-coder.git
 ```
 
 ### 2. Install the dependencies
@@ -56,7 +53,7 @@ git clone https://github.com/e2b-dev/fragments.git
 Enter the repository:
 
 ```
-cd fragments
+cd flame coder
 ```
 
 Run the following to install the required dependencies:

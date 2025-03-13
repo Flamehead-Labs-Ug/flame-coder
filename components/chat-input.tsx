@@ -1,4 +1,5 @@
 "use client"
+import Link from 'next/link'
 
 import { RepoBanner } from './repo-banner'
 import { Button } from '@/components/ui/button'
@@ -270,10 +271,10 @@ export function ChatInput({
         </div>
       </div>
       <p className="text-xs text-muted-foreground mt-2 text-center">
-        Fragments is an open-source project made by{' '}
-        <a href="https://e2b.dev" target="_blank" className="text-[#ff8800]">
-          ✶ E2B
-        </a>
+        Powered by{' '}
+        <Link href="https://flameheadlabs.tech" target="_blank" className="text-[#ff8800]">
+          FlameheadLabs
+        </Link>
       </p>
     </form>
   )
