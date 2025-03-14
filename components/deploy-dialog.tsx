@@ -58,7 +58,7 @@ export function DeployDialog({
       <DropdownMenuTrigger asChild>
         <Button variant="default">
           <Logo width={16} height={16} className="mr-2" />
-          Deploy to E2B
+          Deploy
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent className="p-4 w-80 flex flex-col gap-2">
