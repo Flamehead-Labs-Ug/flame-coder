@@ -58,7 +58,7 @@ function AuthForm({
           view={view}
           theme="default"
           showLinks={true}
-          providers={['github', 'google']}
+          providers={['github']}
           providerScopes={{
             github: 'email',
           }}
